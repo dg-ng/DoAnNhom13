@@ -1,7 +1,7 @@
 # 🔍 Phân Cụm Chủ Đề Văn Bản Thị Trường Lao Động Việt Nam
 ### Topic Modeling for Vietnamese Labor Market Text Data
 
-Đồ án môn **Xử lý ngôn ngữ tự nhiên (NLP)**
+Dự án **Xử lý ngôn ngữ tự nhiên (NLP)**
 
 Nghiên cứu, triển khai và so sánh các phương pháp **Topic Modeling** nhằm khám phá các chủ đề tiềm ẩn trong tập văn bản thu thập từ mạng xã hội liên quan đến thị trường lao động Việt Nam.
 
